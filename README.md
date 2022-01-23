@@ -6,7 +6,7 @@ This software is intended to showcase the connection we can make on a local mach
 
 Here is a link to a demonstration on how the database is used.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/moqdb8lKJGg)
 
 # Cloud Database
 
