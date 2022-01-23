@@ -4,7 +4,7 @@ import json
 import time
 import getpass
 
-firebaseConfig = {"apiKey": "AIzaSyAXWHtaGtNy9kMba1KsKCDaC-1t5Rks5h4",
+firebaseConfig = {"apiKey": "Get your own ;)",
   "authDomain": "book-store-74d98.firebaseapp.com",
   "databaseURL": "https://book-store-74d98-default-rtdb.firebaseio.com",
   "projectId": "book-store-74d98",
